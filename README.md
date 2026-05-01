@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Lerato 👋
 
-<!--
-**motlounglerato7-stack/motlounglerato7-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Systems graduate, honours student and an aspiring software developer with an interest in cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
+- I am in a Software Development and Data Analytics program 
+- Currently learning Java programming
+- Interested in cybersecurity and software development
+- Building my GitHub portfolio through practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Cybersecurity fundamentals
+- Problem-solving
+- GitHub
+
+## Projects
+- BMI Calculator
+- Student Greeting System
+- Item Management System
+- Fraud Detection System
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/leratomotloung
