@@ -21,21 +21,6 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 - Fraud Detection System
 - SecureBank Risk Analysis Tool
 
-### Tech Stack & Tools
-
-![Java](https://shields.io)
-![GitHub](https://shields.io)
-![Git](https://shields.io)
-![Markdown](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
-
----
-
-### GitHub Stats
-![Lerato's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
-
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/leratomotloung
 
