@@ -23,3 +23,4 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/leratomotloung
+I'm always open to collaborating on security-focused Java projects. Let’s connect on LinkedIn!
