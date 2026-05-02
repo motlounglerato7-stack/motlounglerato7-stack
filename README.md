@@ -1,6 +1,6 @@
 # Hi there, I'm Lerato 👋
 
-I am an Information Systems graduate, honours student and an aspiring software developer with an interest in cybersecurity.
+I am an Information Systems graduate, a BCom Honours in Informatics student and an aspiring software developer with an interest in cybersecurity. I enjoy building robust applications that are not only functional but also secure by design.
 
 ## About Me
 - I am in a Software Development and Data Analytics program 
