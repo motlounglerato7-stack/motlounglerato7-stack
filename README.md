@@ -19,6 +19,7 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 - Student Greeting System
 - Item Management System
 - Fraud Detection System
+- SecureBank Risk Analysis Tool
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/leratomotloung
