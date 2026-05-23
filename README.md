@@ -10,9 +10,13 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 
 ## Skills
 - Java
-- Cybersecurity fundamentals
-- Problem-solving
-- GitHub
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- SQL
+- Cybersecurity Fundamentals
+- Problem Solving
+- REST API Fundamentals
+- Data Structures & Algorithms
 
 ## Projects
 - BMI Calculator
