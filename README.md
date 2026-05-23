@@ -1,6 +1,6 @@
 # Hi there, I'm Lerato 👋
 
-BCom Honours in Informatics student
+Informatics Honours student
 
 Aspiring Software Engineer 
 
