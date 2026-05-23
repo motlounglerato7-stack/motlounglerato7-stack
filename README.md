@@ -1,6 +1,9 @@
 # Hi there, I'm Lerato 👋
 
-I am an Information Systems graduate, a BCom Honours in Informatics student and an aspiring software developer with an interest in cybersecurity. I enjoy building robust applications that are not only functional but also secure by design.
+BCom Honours in Informatics student
+Aspiring Software Engineer 
+Cybersecurity Enthusiest 
+I enjoy building software solutions that combine functionality, security and user-focused design. My interests include Java development, cybersecurity, cloud technologies and scalable systems.
 
 ## About Me
 - I am in a Software Development and Data Analytics program 
@@ -24,6 +27,14 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 - Item Management System
 - Fraud Detection System
 - SecureBank Risk Analysis Tool
+- Emoloyee Management System
+- CloudCart Lite
+
+## Currently Learning
+- Data Structures & Algorithms
+- Spring Boot
+- Backend Development
+- Cloud Fundamentals
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/leratomotloung
