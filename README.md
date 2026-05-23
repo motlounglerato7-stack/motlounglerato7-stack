@@ -1,10 +1,10 @@
 # Hi there, I'm Lerato 👋
 
-Informatics Honours student
+Informatics Honours Student
 
 Aspiring Software Engineer 
 
-Cybersecurity Enthusiest 
+Cybersecurity Enthusiast 
 
 I enjoy building software solutions that combine functionality, security and user-focused design. My interests include Java development, cybersecurity, cloud technologies and scalable systems.
 
