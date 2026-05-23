@@ -1,8 +1,11 @@
 # Hi there, I'm Lerato 👋
 
 BCom Honours in Informatics student
+
 Aspiring Software Engineer 
+
 Cybersecurity Enthusiest 
+
 I enjoy building software solutions that combine functionality, security and user-focused design. My interests include Java development, cybersecurity, cloud technologies and scalable systems.
 
 ## About Me
