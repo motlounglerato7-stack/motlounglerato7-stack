@@ -4,7 +4,7 @@ I am an Information Systems graduate, a BCom Honours in Informatics student and 
 
 ## About Me
 - I am in a Software Development and Data Analytics program 
-- Currently learning Java programming
+- Developing software solutions using Java and object-oriented programming principles.
 - Interested in cybersecurity and software development
 - Building my GitHub portfolio through practical projects
 
